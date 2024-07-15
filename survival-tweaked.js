@@ -5,7 +5,7 @@ if (!settings.survival) {
         "sapling": 1,
         "seeds": 5,
         "ice": 25,
-        "cloner": 100,
+        "cloner": 1,
     }
 }
 settings.survival.cloner = 1;
@@ -151,8 +151,8 @@ elements.smash.tool = function(pixel) {
 };
 
 elementWorth = {
-    "gold_coin": 1000,
-    "diamond": 1000000,
+    "gold_coin": 1,
+    "diamond": 100,
     "ketchup": 15,
     "jelly": 10,
     "soda": 10,
