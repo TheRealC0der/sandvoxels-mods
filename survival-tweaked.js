@@ -6,7 +6,6 @@ if (!settings.survival) {
         "seeds": 5,
         "ice": 25,
         "cloner": 100,
-        "diamond": 100000000,
     }
 }
 settings.survival.cloner = 1;
